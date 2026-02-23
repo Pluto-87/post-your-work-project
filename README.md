@@ -12,6 +12,10 @@ This could include:
 - Instructions and examples for how to use your project, including any helpful code snippets.
 - Common issues and troubleshooting tips
 
+## Known Bugs
+
+## FAQ
+
 ## Contribution guidelines
 
 If you welcome contributions, provide guidelines on how others can contribute to your project.
